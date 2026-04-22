@@ -1,2 +1,7 @@
-# demo-leizi-imagenes-dentales
-Demo web para Leizi Imágenes Dentales — diseñada por eterlab.
+# Leizi Imágenes Dentales
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
